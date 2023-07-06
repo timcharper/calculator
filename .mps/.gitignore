@@ -1,0 +1,6 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+classes_gen
+source_gen
+*.caches
